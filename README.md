@@ -13,11 +13,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 I'm an Enthusiastic student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br>
-I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle. <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" data-canonical-src="https://i.imgur.com/y9HTLzM.png" style="max-width:100%;"> </a> <br>
+I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle.
+<a href="https://cairo-eco-team.netlify.app/" target="_blank">
+<img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="25" height="25" />
+</a>
+<br>
 I have great passion for Digital Electronics and Embedded Systems and one day I'll definitely be part of the<br>
 industry and contribute with my skills.
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/1ZoipPhQweVd5Ifxj1zaLN_qcWBPJ8hs9/view?usp=sharing" type="application/pdf">
+<a href="https://drive.google.com/file/d/1ZoipPhQweVd5Ifxj1zaLN_qcWBPJ8hs9/view?usp=sharing" type="application/pdf" target="_blank">
   <img src="https://i.imgur.com/B8Xm8NM.jpg" alt="Hesham Khaled | Resume" width="400" />
 </a>
