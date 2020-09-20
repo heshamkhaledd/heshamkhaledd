@@ -13,8 +13,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 I'm an Enthusiastic student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br>
-I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle. 
-<img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" style="pointer-events:none" /> <br>
+I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle.
+<a href="https://cairo-eco-team.netlify.app/">
+<img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" />
+</a>
 I have great passion for Digital Electronics and Embedded Systems and one day I'll definitely be part of the<br>
 industry and contribute with my skills.
 
