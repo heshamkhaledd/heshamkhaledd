@@ -1,4 +1,4 @@
-<h2> Hey, I'm Hesham. ✌🏻 </h2>
+<h2> Hey, I'm Hesham.</h2>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
