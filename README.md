@@ -22,6 +22,6 @@ I have great passion for Digital Electronics and Embedded Systems and one day I'
 industry and contribute with my skills.
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/13noI6XvswuIuyCzyqNE8HqBVHGVvHxG1/view?usp=sharing" target="_blank" type="application/pdf">
+<a href="https://drive.google.com/file/d/1_cnuS8vacfKvXd99qylIi8Vf3Cp7HOZ9/view?usp=sharing" target="_blank" type="application/pdf">
   <img src="https://i.imgur.com/5jwSNVh.jpg" alt="Hesham Khaled | Resume" width="400" />
 </a>
