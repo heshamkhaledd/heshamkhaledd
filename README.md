@@ -14,12 +14,15 @@
 
 I'm an Enthusiastic student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br>
 I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle.
-<a href="https://cairo-eco-team.netlify.app/" target="_blank">
 <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="25" height="25" />
 </a>
 <br>
 I have great passion for Digital Electronics and Embedded Systems and one day I'll definitely be part of the<br>
 industry and contribute with my skills.
+
+## 💻 My Github Stats
+  ![Hesham's github stats](https://github-readme-stats.vercel.app/api?username=heshamkhaledd&show_icons=true&theme=synthwave)
+
 
 ## 📝 Resume 
 <a href="https://drive.google.com/file/d/1_cnuS8vacfKvXd99qylIi8Vf3Cp7HOZ9/view?usp=sharing" target="_blank" type="application/pdf">
