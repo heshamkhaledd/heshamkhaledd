@@ -12,10 +12,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm an Enthusiastic student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br>
-I'm currently working as an Embedded Software Engineer in CU Shell Eco-Racing Team on the Autonomous vehicle.
-<img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="25" height="25" />
+I'm a Senior student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br> <br>
+I'm currently working in:<br>
+• Summer Intern at Dell Technologies
+<img src="https://i.imgur.com/SnXwcez.png" alt="Dell Icon" width="22" height="22" /><br>
+• Autonomous Vehicle Director at CU Shell Eco-Racing Team.
+<img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="20" height="20" />
 </a>
+<br>
 <br>
 I have great passion for Digital Electronics and Embedded Systems and one day I'll definitely be part of the<br>
 industry and contribute with my skills.
