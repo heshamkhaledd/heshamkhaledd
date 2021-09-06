@@ -31,6 +31,6 @@ industry and contribute with my skills.
 
 
 ## 📝 Resume 
-<a href="https://drive.google.com/file/d/1YfYJTlyC_FH4MpQLxf0vO_nkBKONt3iK/view?usp=sharing" target="_blank" type="application/pdf">
+<a href="https://drive.google.com/file/d/1MyDYzl8fE15u2SFHs2Oj8EJAiBMkvQWg/view?usp=sharing" target="_blank" type="application/pdf">
   <img src="https://i.imgur.com/5jwSNVh.jpg" alt="Hesham Khaled | Resume" width="400" />
 </a>
