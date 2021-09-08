@@ -25,7 +25,7 @@ My Experiences:<br>
 </a>
 <br>
 <br>
-I have great passion for Digital Electronics and Embedded Systems and one day I'll definitely be part of the<br>
+I have great passion for Digital Electronics Physical Implementation and one day I'll definitely be part of the<br>
 industry and contribute with my skills.
 
 ## 💻 My Github Stats
