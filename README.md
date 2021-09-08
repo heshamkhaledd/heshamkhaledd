@@ -30,8 +30,6 @@ industry and contribute with my skills.
 
 ## 💻 My Github Stats
 [![Hesham's Github stats](https://github-readme-stats.vercel.app/api?username=heshamkhaledd&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/heshamkhaledd?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heshamkhaledd&exclude_repo=Autonomous-Car,Mips-Microprocessor&hide=cmake,batchfile&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/heshamkhaledd?tab=repositories)
-</br>
 
 
 ## 📝 Resume 
