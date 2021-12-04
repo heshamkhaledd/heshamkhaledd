@@ -18,7 +18,7 @@ My Experiences:<br>
 <img src="https://i.imgur.com/oRq5c4T.png" alt="Si-Vision Icon" width="22" height="22" /><br>
 • Digital Design Intern at Onelab
 <img src="https://i.imgur.com/4XPwnbW.png" alt="Onelab Icon" width="22" height="22" /><br>
-• Former Summer Intern at Dell Technologies
+• Summer Intern at Dell Technologies
 <img src="https://i.imgur.com/SnXwcez.png" alt="Dell Icon" width="22" height="22" /><br>
 • Autonomous Vehicle Director at CU Shell Eco-Racing Team.
 <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="20" height="20" />
