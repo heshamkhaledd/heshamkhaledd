@@ -14,9 +14,9 @@
 
 I'm a Senior student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br> <br>
 My Experiences:<br>
-• Digital Design Intern at Si-Vision
+• Digital IC Design Intern at Si-Vision
 <img src="https://i.imgur.com/oRq5c4T.png" alt="Si-Vision Icon" width="22" height="22" /><br>
-• Digital Design Intern at Onelab
+• Digital IC Design Intern at Onelab
 <img src="https://i.imgur.com/4XPwnbW.png" alt="Onelab Icon" width="22" height="22" /><br>
 • Summer Intern at Dell Technologies
 <img src="https://i.imgur.com/SnXwcez.png" alt="Dell Icon" width="22" height="22" /><br>
