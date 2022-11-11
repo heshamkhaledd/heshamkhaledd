@@ -14,13 +14,15 @@
 
 I'm a Senior student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br> <br>
 My Experiences:<br>
-• Digital IC Design Intern at Si-Vision
+• QA Engineer at Siemens Digital Industries Software
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Si-Vision Icon" width="70" height="15" /><br>
+• Former Digital IC Design Intern at Si-Vision
 <img src="https://i.imgur.com/oRq5c4T.png" alt="Si-Vision Icon" width="22" height="22" /><br>
-• Digital IC Design Intern at Onelab
+• Former Digital IC Design Intern at Onelab
 <img src="https://i.imgur.com/4XPwnbW.png" alt="Onelab Icon" width="22" height="22" /><br>
-• Summer Intern at Dell Technologies
+• Former Intern at Dell Technologies
 <img src="https://i.imgur.com/SnXwcez.png" alt="Dell Icon" width="22" height="22" /><br>
-• Autonomous Vehicle Director at CU Shell Eco-Racing Team.
+• Former Autonomous Vehicle Director at CU Shell Eco-Racing Team.
 <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="20" height="20" />
 </a>
 <br>
