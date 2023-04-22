@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm a Senior student who's luckily in Electronics and Communication Engineering, Cairo University. 📡<br> <br>
+I'm an Electronics engineer graduated from Electronics and Communication Engineering, Cairo University. 📡<br> <br>
 My Experiences:<br>
 • QA Engineer at Siemens Digital Industries Software
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Si-Vision Icon" width="70" height="15" /><br>
@@ -32,9 +32,3 @@ industry and contribute with my skills.
 
 ## 💻 My Github Stats
 [![Hesham's Github stats](https://github-readme-stats.vercel.app/api?username=heshamkhaledd&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/heshamkhaledd?tab=repositories)
-
-
-## 📝 Resume 
-<a href="https://drive.google.com/file/d/1MyDYzl8fE15u2SFHs2Oj8EJAiBMkvQWg/view?usp=sharing" target="_blank" type="application/pdf">
-  <img src="https://i.imgur.com/5jwSNVh.jpg" alt="Hesham Khaled | Resume" width="400" />
-</a>
