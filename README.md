@@ -27,8 +27,6 @@ My Experiences:<br>
 </a>
 <br>
 <br>
-I have great passion for Digital Electronics Physical Implementation and one day I'll definitely be part of the<br>
-industry and contribute with my skills.
 
 ## 💻 My Github Stats
 [![Hesham's Github stats](https://github-readme-stats.vercel.app/api?username=heshamkhaledd&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/heshamkhaledd?tab=repositories)
