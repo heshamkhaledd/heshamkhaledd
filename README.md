@@ -14,6 +14,8 @@
 
 I'm an Electronics engineer graduated from Electronics and Communication Engineering, Cairo University. 📡<br> <br>
 My Experiences:<br>
+• Senior SDET Engineer at Siemens Digital Industries Software
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Si-Vision Icon" width="70" height="15" /><br>
 • QA Engineer at Siemens Digital Industries Software
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Si-Vision Icon" width="70" height="15" /><br>
 • Former Intern at Dell Technologies
