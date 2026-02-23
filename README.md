@@ -27,8 +27,3 @@ My Experiences:<br>
 • Former Autonomous Vehicle Director at CU Shell Eco-Racing Team.
 <img src="https://i.imgur.com/y9HTLzM.png" alt="Shell Icon" width="20" height="20" />
 </a>
-<br>
-<br>
-
-## 💻 My Github Stats
-[![Hesham's Github stats](https://github-readme-stats.vercel.app/api?username=heshamkhaledd&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/heshamkhaledd?tab=repositories)
