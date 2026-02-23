@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm an Electronics engineer graduated from Electronics and Communication Engineering, Cairo University. 📡<br> <br>
+I'm an Software engineer graduated from Electronics and Communications Engineering, Cairo University. 📡<br> <br>
 My Experiences:<br>
 • Senior SDET Engineer at Siemens Digital Industries Software
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" alt="Si-Vision Icon" width="70" height="15" /><br>
